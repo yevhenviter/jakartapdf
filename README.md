@@ -1,7 +1,8 @@
 # JakartaPDK
 Baseon on the original source code of the SumatraPDF 3.5.2
 
-* [readme](original-readme.md)
-* [release](/sumatrapdfreader/sumatrapdf/releases/tag/3.5.2rel)
+* [original readme](original-readme.md)
+* [original source code](https://github.com/sumatrapdfreader/sumatrapdf/releases/tag/3.5.2rel)
+
 
 
