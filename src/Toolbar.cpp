@@ -82,6 +82,9 @@ static ToolbarButtonInfo gToolbarButtons[] = {
     {TbIcon::SearchNext, CmdFindNext, _TRN("Find Next")},
     {TbIcon::MatchCase, CmdFindMatch, _TRN("Match Case")},
     {TbIcon::None, CmdInfoText, nullptr}, // info text
+    {TbIcon::None, 0, nullptr}, // separator
+    {TbIcon::PagePrev, CmdNavigateBack, _TRN("Navigate Back")},
+    {TbIcon::PageNext, CmdNavigateForward, _TRN("Navigate Forward")},
 };
 
 constexpr int kButtonsCount = dimof(gToolbarButtons);
